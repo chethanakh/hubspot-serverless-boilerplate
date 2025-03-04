@@ -1,0 +1,12 @@
+{
+  "runtime": "nodejs18.x",
+  "version": "1.0",
+  "environment": {},
+  "secrets": [],
+  "endpoints": {
+    "test/endpoint": {
+      "method": "GET",
+      "file": "testEndpoint.js"
+    }
+  }
+}
